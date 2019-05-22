@@ -2,11 +2,40 @@
 
 Talk given by Jason Pearson on May 22nd, 2019
 
-### Sources
+## ConstraintLayout 2.0 Release Notes
 
-Article [Beautiful animations using Android ConstraintLayout](https://robinhood.engineering/beautiful-animations-using-android-constraintlayout-eee5b72ecae3)
+[alpha 3](https://androidstudio.googleblog.com/2018/12/constraintlayout-200-alpha-3.html)
+
+* KeyTimeCycle
+* KeyTrigger
+* Gesture interactions can now drive seamless transitions
+* Sub Elements in Constraints
+
+[alpha 5](https://androidstudio.googleblog.com/2019/04/constraintlayout-200-alpha-5.html)
+
+* Derived Constraints
+* onSwipe Regions
+* AutoTransition
+
+[beta 1](https://androidstudio.googleblog.com/2019/05/constraintlayout-200-beta-1.html)
+
+* Flow virtual Layout
+* onSwipe onTouchUp modes
+* visibilityMode
+
+## Article Sources
+
+[Beautiful animations using Android ConstraintLayout](https://robinhood.engineering/beautiful-animations-using-android-constraintlayout-eee5b72ecae3)
 
 <img src="https://cdn-images-1.medium.com/max/1600/1*ljG9dtnDj4GJ79Zq-XiktQ.gif" height="360" width="180" >
+
+[Creating awesome animations using ConstraintLayout and ConstraintSet ](https://proandroiddev.com/creating-awesome-animations-using-constraintlayout-and-constraintset-part-i-390cc72c5f75)
+
+[Build a Responsive UI with ConstraintLayout](https://developer.android.com/training/constraint-layout)
+
+[onTouchUp with Mike Camell](https://mikescamell.com/motionlayoutquickie-ontouchup/)
+
+## Demos created for this talk
 
 Demo [Derived ConstraintSets](https://github.com/kaeawc/motion-derived-constraintsets)
 
