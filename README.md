@@ -35,6 +35,10 @@ Talk given by Jason Pearson on May 22nd, 2019
 
 [onTouchUp with Mike Camell](https://mikescamell.com/motionlayoutquickie-ontouchup/)
 
+<img src="https://mikescamell.com/content/images/2019/05/stop-1.gif" height="360" width="180" >
+
+[Exploring MotionLayout: Touch Regions](https://medium.com/snapp-mobile/exploring-motionlayout-touch-regions-c0747e65cca0)
+
 ## Demos created for this talk
 
 Demo [Derived ConstraintSets](https://github.com/kaeawc/motion-derived-constraintsets)
