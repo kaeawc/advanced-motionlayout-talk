@@ -63,7 +63,7 @@ Demo [Hourglass](https://github.com/kaeawc/motion-photo-grid)
 * Some Constraints are specifying a pathMotionArc to get the curved path of motion.
 * ImageFilterView is used with a CustomAttribute property transition on `crossfade` to change how the sand appears.
 * A simple rotation transformation keeps both the glass and sand rotating along their respective paths.
-* The sand is constrainted by the glass
+* The sand is constrained by the glass
 * KeyFrameSets adjust for alpha and rotation quirks to keep the ends of the animation from glitching
 * autoTransition starts the animation and keeps it going forever
 
