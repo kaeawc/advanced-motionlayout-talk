@@ -23,6 +23,16 @@ Talk given by Jason Pearson on May 22nd, 2019
 * onSwipe onTouchUp modes
 * visibilityMode
 
+## Relevant Google I/O 2019 Talks
+
+[Google I/O 2019 - What's new in ConstraintLayout ](https://www.youtube.com/watch?v=29gLA90m6Gk)
+
+Nicholas Roard & John Hoford talk about what they've been working on in ConstraintLayout 2.0 and the features of the latest beta release.
+
+[Nick Butcher - Motional Intelligence](https://www.youtube.com/watch?v=f3Lm8iOr4mE)
+
+What makes animations great, the concepts of reentrant, continuous, and smooth.
+
 ## Article Sources
 
 [Beautiful animations using Android ConstraintLayout](https://robinhood.engineering/beautiful-animations-using-android-constraintlayout-eee5b72ecae3)
