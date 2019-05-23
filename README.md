@@ -37,22 +37,6 @@ Nicholas Roard & John Hoford talk about what they've been working on in Constrai
 
 What makes animations great, the concepts of reentrant, continuous, and smooth.
 
-## Article Sources
-
-[Beautiful animations using Android ConstraintLayout](https://robinhood.engineering/beautiful-animations-using-android-constraintlayout-eee5b72ecae3)
-
-<img src="https://cdn-images-1.medium.com/max/1600/1*ljG9dtnDj4GJ79Zq-XiktQ.gif" height="360" width="180" >
-
-[Creating awesome animations using ConstraintLayout and ConstraintSet ](https://proandroiddev.com/creating-awesome-animations-using-constraintlayout-and-constraintset-part-i-390cc72c5f75)
-
-[Build a Responsive UI with ConstraintLayout](https://developer.android.com/training/constraint-layout)
-
-[onTouchUp with Mike Camell](https://mikescamell.com/motionlayoutquickie-ontouchup/)
-
-<img src="https://mikescamell.com/content/images/2019/05/stop-1.gif" height="360" width="180" >
-
-[Exploring MotionLayout: Touch Regions](https://medium.com/snapp-mobile/exploring-motionlayout-touch-regions-c0747e65cca0)
-
 ## Demos I created for this talk
 
 [Derived ConstraintSets](https://github.com/kaeawc/motion-derived-constraintsets)
@@ -73,7 +57,7 @@ What makes animations great, the concepts of reentrant, continuous, and smooth.
 
 <img src="https://user-images.githubusercontent.com/1414364/58064696-25e76580-7b51-11e9-9967-058dc343f295.gif" height="360" width="180" >
 
-Demo [Hourglass](https://github.com/kaeawc/motion-photo-grid)
+[Hourglass](https://github.com/kaeawc/motion-photo-grid)
 
 * Each ConstraintSet denotes the various states of the hourglass while keeping the vertical or horizontal chain packed.
 * Some Constraints are specifying a pathMotionArc to get the curved path of motion.
@@ -85,6 +69,22 @@ Demo [Hourglass](https://github.com/kaeawc/motion-photo-grid)
 
 <img src="https://user-images.githubusercontent.com/1414364/58067733-6f897d80-7b5c-11e9-8468-fdff38c4d74e.gif" height="360" width="180" >
 
-Demo [RecyclerView + MotionLayout](https://github.com/kaeawc/motion-recycler)
+[RecyclerView + MotionLayout](https://github.com/kaeawc/motion-recycler)
 
 <img src="https://user-images.githubusercontent.com/1414364/58263912-e8e6c300-7d4a-11e9-9d17-2a72bc4967de.gif" height="360" width="180" >
+
+## Sources that inspired or were mentioned in this talk
+
+[Beautiful animations using Android ConstraintLayout](https://robinhood.engineering/beautiful-animations-using-android-constraintlayout-eee5b72ecae3)
+
+<img src="https://cdn-images-1.medium.com/max/1600/1*ljG9dtnDj4GJ79Zq-XiktQ.gif" height="360" width="180" >
+
+[Creating awesome animations using ConstraintLayout and ConstraintSet ](https://proandroiddev.com/creating-awesome-animations-using-constraintlayout-and-constraintset-part-i-390cc72c5f75)
+
+[Build a Responsive UI with ConstraintLayout](https://developer.android.com/training/constraint-layout)
+
+[onTouchUp with Mike Camell](https://mikescamell.com/motionlayoutquickie-ontouchup/)
+
+<img src="https://mikescamell.com/content/images/2019/05/stop-1.gif" height="360" width="180" >
+
+[Exploring MotionLayout: Touch Regions](https://medium.com/snapp-mobile/exploring-motionlayout-touch-regions-c0747e65cca0)
