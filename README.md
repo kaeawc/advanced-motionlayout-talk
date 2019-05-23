@@ -6,37 +6,6 @@ Talk given by Jason Pearson on May 22nd, 2019
 
 [Speaker Deck]()
 
-## ConstraintLayout 2.0 Release Notes
-
-[alpha 3](https://androidstudio.googleblog.com/2018/12/constraintlayout-200-alpha-3.html)
-
-* KeyTimeCycle
-* KeyTrigger
-* Gesture interactions can now drive seamless transitions
-* Sub Elements in Constraints
-
-[alpha 5](https://androidstudio.googleblog.com/2019/04/constraintlayout-200-alpha-5.html)
-
-* Derived Constraints
-* onSwipe Regions
-* AutoTransition
-
-[beta 1](https://androidstudio.googleblog.com/2019/05/constraintlayout-200-beta-1.html)
-
-* Flow virtual Layout
-* onSwipe onTouchUp modes
-* visibilityMode
-
-## Relevant Google I/O 2019 Talks
-
-[Google I/O 2019 - What's new in ConstraintLayout ](https://www.youtube.com/watch?v=29gLA90m6Gk)
-
-Nicholas Roard & John Hoford talk about what they've been working on in ConstraintLayout 2.0 and the features of the latest beta release.
-
-[Nick Butcher - Motional Intelligence](https://www.youtube.com/watch?v=f3Lm8iOr4mE)
-
-What makes animations great, the concepts of reentrant, continuous, and smooth.
-
 ## Demos I created for this talk
 
 [Derived ConstraintSets](https://github.com/kaeawc/motion-derived-constraintsets)
@@ -73,7 +42,39 @@ What makes animations great, the concepts of reentrant, continuous, and smooth.
 
 <img src="https://user-images.githubusercontent.com/1414364/58263912-e8e6c300-7d4a-11e9-9d17-2a72bc4967de.gif" height="360" width="180" >
 
-## Sources that inspired or were mentioned in this talk
+
+## ConstraintLayout 2.0 Release Notes
+
+[alpha 3](https://androidstudio.googleblog.com/2018/12/constraintlayout-200-alpha-3.html)
+
+* KeyTimeCycle
+* KeyTrigger
+* Gesture interactions can now drive seamless transitions
+* Sub Elements in Constraints
+
+[alpha 5](https://androidstudio.googleblog.com/2019/04/constraintlayout-200-alpha-5.html)
+
+* Derived Constraints
+* onSwipe Regions
+* AutoTransition
+
+[beta 1](https://androidstudio.googleblog.com/2019/05/constraintlayout-200-beta-1.html)
+
+* Flow virtual Layout
+* onSwipe onTouchUp modes
+* visibilityMode
+
+## Relevant Google I/O 2019 Talks
+
+[Google I/O 2019 - What's new in ConstraintLayout ](https://www.youtube.com/watch?v=29gLA90m6Gk)
+
+Nicholas Roard & John Hoford talk about what they've been working on in ConstraintLayout 2.0 and the features of the latest beta release.
+
+[Nick Butcher - Motional Intelligence](https://www.youtube.com/watch?v=f3Lm8iOr4mE)
+
+What makes animations great, the concepts of reentrant, continuous, and smooth.
+
+## Other sources that inspired or were mentioned in this talk
 
 [Beautiful animations using Android ConstraintLayout](https://robinhood.engineering/beautiful-animations-using-android-constraintlayout-eee5b72ecae3)
 
