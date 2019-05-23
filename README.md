@@ -6,6 +6,8 @@ Talk given by Jason Pearson on May 22nd, 2019
 
 Speaker Deck TBD
 
+![jp_talking_ml](https://user-images.githubusercontent.com/1414364/58268363-4d0d8500-7d53-11e9-8d99-e4f2c2f13313.jpeg)
+
 ## Demos I created for this talk
 
 [Derived ConstraintSets](https://github.com/kaeawc/motion-derived-constraintsets)
