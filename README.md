@@ -2,6 +2,10 @@
 
 Talk given by Jason Pearson on May 22nd, 2019
 
+[Original Keynote Presentation](https://github.com/kaeawc/advanced-motionlayout-talk/releases/tag/2019.05.22)
+
+[Speaker Deck]()
+
 ## ConstraintLayout 2.0 Release Notes
 
 [alpha 3](https://androidstudio.googleblog.com/2018/12/constraintlayout-200-alpha-3.html)
@@ -49,23 +53,25 @@ What makes animations great, the concepts of reentrant, continuous, and smooth.
 
 [Exploring MotionLayout: Touch Regions](https://medium.com/snapp-mobile/exploring-motionlayout-touch-regions-c0747e65cca0)
 
-## Demos created for this talk
+## Demos I created for this talk
 
-Demo [Derived ConstraintSets](https://github.com/kaeawc/motion-derived-constraintsets)
+[Derived ConstraintSets](https://github.com/kaeawc/motion-derived-constraintsets)
 
 <img src="https://user-images.githubusercontent.com/1414364/58134839-06564880-7bf6-11e9-8ef4-2d9ec41828cc.gif" height="360" width="180" >
 
-Demo [Path Motion Arc](https://github.com/kaeawc/motion-path-motion-arc)
+[Path Motion Arc](https://github.com/kaeawc/motion-path-arc)
 
-TBD
-
-Demo [Wrap Content Header](https://github.com/kaeawc/motion-layout-wrap-content-header)
+[Wrap Content Header](https://github.com/kaeawc/motion-layout-wrap-content-header)
 
 <img src="https://user-images.githubusercontent.com/1414364/58145632-d7090100-7c20-11e9-8b70-52439bd930ef.gif" height="360" width="180" >
 
-Demo [Dynamic Photo Grid](https://github.com/kaeawc/motion-photo-grid)
+[Dynamic Photo Grid](https://github.com/kaeawc/motion-photo-grid)
 
 <img src="https://user-images.githubusercontent.com/1414364/58134945-8b416200-7bf6-11e9-9286-5b6fba986c49.gif" height="360" width="360" >
+
+[Sliding Tile Puzzle](https://github.com/kaeawc/motion-puzzle)
+
+<img src="https://user-images.githubusercontent.com/1414364/58064696-25e76580-7b51-11e9-9967-058dc343f295.gif" height="360" width="180" >
 
 Demo [Hourglass](https://github.com/kaeawc/motion-photo-grid)
 
