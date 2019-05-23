@@ -4,7 +4,7 @@ Talk given by Jason Pearson on May 22nd, 2019
 
 [Original Keynote Presentation](https://github.com/kaeawc/advanced-motionlayout-talk/releases/tag/2019.05.22)
 
-[Speaker Deck]()
+Speaker Deck TBD
 
 ## Demos I created for this talk
 
