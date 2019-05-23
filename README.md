@@ -6,7 +6,8 @@ Talk given by Jason Pearson on May 22nd, 2019
 
 Speaker Deck TBD
 
-![jp_talking_ml](https://user-images.githubusercontent.com/1414364/58268363-4d0d8500-7d53-11e9-8d99-e4f2c2f13313.jpeg)
+![jason pearson](https://user-images.githubusercontent.com/1414364/58275011-12f7af80-7d62-11e9-80c9-9095fc4f0419.PNG)
+![slides](https://user-images.githubusercontent.com/1414364/58274980-06735700-7d62-11e9-88b7-bca6f75a8156.jpg)
 
 ## Demos I created for this talk
 
