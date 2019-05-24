@@ -41,7 +41,7 @@ Talk given by Jason Pearson on May 22nd, 2019
 
 <img src="https://user-images.githubusercontent.com/1414364/58067733-6f897d80-7b5c-11e9-8468-fdff38c4d74e.gif" height="360" width="180" >
 
-[RecyclerView + MotionLayout](https://github.com/kaeawc/motion-recycler)
+[RecyclerView + MotionLayout](https://github.com/kaeawc/motion-recycle)
 
 <img src="https://user-images.githubusercontent.com/1414364/58263912-e8e6c300-7d4a-11e9-9d17-2a72bc4967de.gif" height="360" width="180" >
 
