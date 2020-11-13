@@ -29,7 +29,7 @@ Talk given by Jason Pearson on May 22nd, 2019
 
 <img src="https://user-images.githubusercontent.com/1414364/58064696-25e76580-7b51-11e9-9967-058dc343f295.gif" height="360" width="180" >
 
-[Hourglass](https://github.com/kaeawc/motion-photo-grid)
+[Hourglass](https://github.com/kaeawc/motion-hourglass)
 
 * Each ConstraintSet denotes the various states of the hourglass while keeping the vertical or horizontal chain packed.
 * Some Constraints are specifying a pathMotionArc to get the curved path of motion.
